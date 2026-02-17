@@ -1,0 +1,1 @@
+My project regarding data preprocessing using numpy, pandas and sklearn including MinMaxScaler for scaling the data, handling missing values, removing outliers and droping the columns with high amount of missing values.
